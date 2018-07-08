@@ -1,8 +1,10 @@
+package com;
+
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class TrafficLights {
+
     public static final String MINUTE = "минут";
     public static final String SECOND = "секунд";
     public static void main(String[] args) {
